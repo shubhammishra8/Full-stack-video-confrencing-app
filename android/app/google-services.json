@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423996873211",
+    "project_id": "confrence-5cab7",
+    "storage_bucket": "confrence-5cab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423996873211:android:9cc11ee3e4589672fb135e",
+        "android_client_info": {
+          "package_name": "com.example.confrence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423996873211-pkttoufdrnid1bmvf04tr2ttoiova5na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1DmP07qo_JQcQK-Q56pqnvZFHtHS8v2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423996873211-pkttoufdrnid1bmvf04tr2ttoiova5na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
